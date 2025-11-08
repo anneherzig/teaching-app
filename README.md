@@ -1,1 +1,1 @@
-Visit https://moka15.github.io/teaching-app/
+Visit https://anneherzig.github.io/teaching-app/
